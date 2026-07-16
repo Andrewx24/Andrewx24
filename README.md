@@ -40,8 +40,6 @@ I work across the full stack with a focus on:
 
 ### Currently
 
-I'm exploring new opportunities where I can contribute as a **Technical Founder**, early engineering leader, or help build ambitious products in AI, fintech, or SaaS.
-
 Open to conversations about startups, technical strategy, or collaboration.
 
 ### Let's Connect
