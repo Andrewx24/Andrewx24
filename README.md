@@ -47,6 +47,6 @@ Most of my work is the unglamorous half of an AI product — the ingestion, the 
 - 🌐 [andrewaliaj.dev](https://andrewaliaj.dev)
 - 📅 [Book an intro call](https://andrewaliaj.dev/#contact) — send a message and the calendar opens
 - 💼 [LinkedIn](https://www.linkedin.com/in/andrewaliaj/)
-- 📧 andrewaliaj@gmail.com
+- 📧 andrew@andrewaliaj.dev
 
 Always happy to chat about building great products.
