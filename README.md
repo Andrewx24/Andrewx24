@@ -16,9 +16,9 @@ Most of my work is the unglamorous half of an AI product — the ingestion, the 
 
 | Company | Role | What it does |
 | --- | --- | --- |
-| [Propel Earth](https://propel.earth) | Founding Engineer | Marketplace connecting impact founders, service providers, and investors |
+| [Propel Earth](https://propel.earth) | Software Engineer | Marketplace connecting impact founders, service providers, and investors |
 | [LoanBlocks](https://www.loanblocks.ai) | CTO, Co-Founder, Founding Software Engineer | Derisk credit agreements with AI covenant review |
-| [SignCode](https://signcodeinc.com) | Founding Engineer | Municipal sign code ordinance checks for sign makers |
+| [SignCode](https://signcodeinc.com) | Software Engineer | Municipal sign code ordinance checks for sign makers |
 | [RiskHelm](https://riskhelm.com) | Founding Engineer | First-party insurance for AI that acts on its own |
 | [Validus Nexus](https://validus.nexus) | Software Engineer | AI business matchmaking for founders, funders, and family offices |
 | [Immpression](https://play.google.com/store/apps/details?id=com.immpression.artapp) | Founding Engineer | Mobile marketplace for buying and selling art |
