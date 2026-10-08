@@ -29,7 +29,7 @@ Most of my work is the unglamorous half of an AI product — the ingestion, the 
 - **Document pipelines** — ingestion and extraction for credit agreements and covenant review, running on AWS for institutional lenders.
 - **Realtime dashboards** — a Next.js and Go dashboard streaming live updates over WebSockets.
 - **Query performance** — caching took dashboard queries from 2s to 200ms. Schema design in PostgreSQL and Prisma cut query time 30%.
-- **Scale on FastAPI** — an ESG score analyzer processing 100k+ daily environmental metrics with sub-second responses. Built at a climate hackathon, where it won most innovative.
+- **Scale on FastAPI** — an ESG score analyzer processing 100k+ daily environmental metrics with sub-second responses. Built at a climate hackathon.
 - **Zero to production** — a SaaS product built from scratch: schema, Stripe billing, and Google OAuth. Immpression shipped on React Native over Node, Express, and MongoDB.
 
 ### Tech & Skills
