@@ -16,12 +16,12 @@ Most of my work is the unglamorous half of an AI product — the ingestion, the 
 
 | Company | Role | What it does |
 | --- | --- | --- |
-| [Propel Earth](https://propel.earth) | Software Engineer | Marketplace connecting impact founders, service providers, and investors |
 | [LoanBlocks](https://www.loanblocks.ai) | CTO, Co-Founder, Founding Software Engineer | Derisk credit agreements with AI covenant review |
 | [SignCode](https://signcodeinc.com) | Software Engineer | Municipal sign code ordinance checks for sign makers |
 | [RiskHelm](https://riskhelm.com) | Founding Engineer | First-party insurance for AI that acts on its own |
-| [DebtMap](https://debtmap.dev) |  Founding Software Engineer | Audit your code and reduce tech debt  |
+| [Debtmap](https://debtmap.dev) | Founding Software Engineer | Audit your code and reduce tech debt |
 | [Immpression](https://play.google.com/store/apps/details?id=com.immpression.artapp) | Founding Engineer | Mobile marketplace for buying and selling art |
+| [Productivity Sumo](https://www.productivitysumo.app) | Founder and Software Engineer | Productivity management software |
 
 ### Where I've used it
 
