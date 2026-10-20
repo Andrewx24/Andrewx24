@@ -21,7 +21,7 @@ Most of my work is the unglamorous half of an AI product — the ingestion, the 
 | [RiskHelm](https://riskhelm.com) | Founding Engineer | First-party insurance for AI that acts on its own |
 | [Debtmap](https://debtmap.dev) | Founding Software Engineer | Audit your code and reduce tech debt |
 | [Immpression](https://play.google.com/store/apps/details?id=com.immpression.artapp) | Founding Engineer | Mobile marketplace for buying and selling art |
-| [Productivity Sumo](https://www.productivitysumo.app) | Founder and Software Engineer | Productivity management software |
+| [Productivity Sumo](https://www.productivitysumo.app) | Founding Software Engineer | Productivity management software |
 
 ### Where I've used it
 
