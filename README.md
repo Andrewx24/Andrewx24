@@ -1,6 +1,6 @@
 # Hi, I'm Andrew Aliaj 👋
 
-**Backend and AI engineer** | I build the systems behind AI products.
+**Fullstack and AI engineer** | I build the systems behind AI products.
 
 Available as a founding engineer, fractional CTO, or a senior/staff backend engineer. Based in New York City, open to remote.
 
