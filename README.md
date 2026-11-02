@@ -2,7 +2,7 @@
 
 **Fullstack and AI engineer** | I build the systems behind AI products.
 
-Available as a founding engineer, fractional CTO, or a senior/staff backend engineer. Based in New York City, open to remote.
+Available as a founding engineer, fractional CTO, or a senior/staff fullstack engineer. Based in New York City, open to remote.
 
 Most of my work is the unglamorous half of an AI product — the ingestion, the extraction, the orchestration, and the parts that have to keep working when a provider does not. I've been the person carrying the pager, and that shapes what I build: LLM calls get retries and a second provider because one provider will go down, and I'd rather design the schema once than migrate it under load.
 
