@@ -34,7 +34,7 @@ Most of my work is the unglamorous half of an AI product — the ingestion, the 
 
 ### Tech & Skills
 
-- **Languages**: Python, Rust, TypeScript, Go, JavaScript
+- **Languages**: Python, Rust, TypeScript, Go, JavaScript, C++, Java
 - **Backend & APIs**: Node.js, Express, Django, Flask, GraphQL, FastAPI, WebSockets, REST
 - **AI & LLM systems**: LLM orchestration, multi-provider failover, retries and exponential backoff, document ingestion and extraction, priority-based task routing
 - **Cloud & infrastructure**: AWS (Certified Cloud Practitioner), Docker, Kubernetes, Vercel
